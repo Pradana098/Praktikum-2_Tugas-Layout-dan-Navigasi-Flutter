@@ -1,16 +1,14 @@
 # konsep_navigasi_dan_rute
 
-A new Flutter project.
+## Membangun Navigasi di Flutter
+![localhost_58278 - Google Chrome 10_8_2024 8_00_17 PM](https://github.com/user-attachments/assets/f927341a-4d2c-4eb3-990c-81b67e6cef48)
 
-## Getting Started
+## Tugas Praktikum 2
 
-This project is a starting point for a Flutter application.
+### home page
+![localhost_61450 - Google Chrome 10_8_2024 9_40_54 PM](https://github.com/user-attachments/assets/0f0fd84d-6c9c-4436-98dd-fa95b04ef762)
 
-A few resources to get you started if this is your first Flutter project:
+### item page
+![localhost_61450 - Google Chrome 10_8_2024 10_00_44 PM](https://github.com/user-attachments/assets/e6780a76-5704-4114-85b8-b29fbaf917a9)
+![localhost_61450 - Google Chrome 10_8_2024 10_00_40 PM](https://github.com/user-attachments/assets/938fb651-acd2-4112-ad71-673a99fc6005)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
